@@ -15,7 +15,7 @@ docker compose up
 
 3. Abra o navegador no seguinte endereço: http://localhost:1337/
 
-4. Configure um usuário admin e uma conexão para http://kong:8001/
+4. Configure um usuário admin e uma conexão para `http://kong:8001/`
 
 5. Cadastre um novo service chamado `ms-example` apontando para `http://ms-example:3000/`
 
